@@ -1,0 +1,31 @@
+body {
+  background-image: url("cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZsNDQzNDE2ODYxNTUtaW1hZ2Uta3R4cmF6M20uanBn.jpg");
+  margin-left: 200px;
+  font-style: italic;
+  color: HoneyDew;
+  line-height: 120%;
+}
+h1{
+  font-style: oblique;
+  color: DarkSeaGreen;
+}
+h2{
+  color: MintCream;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #A9A9A9;
+}
+
+textarea {
+  font-family: Arial, sans-serif;
+  background-color: SeaShell;
+  border: 3px solid;
+  padding: 10px;
+  width: 30%;
+}
